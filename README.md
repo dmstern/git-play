@@ -4,7 +4,7 @@ blablabla test nono
 
 yeaahf
 master
-other hello
+other
 
 Test with VSCode Extension Link GitHub Issues: [#1](/../../issues/1)
 
